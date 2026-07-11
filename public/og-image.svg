@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#08153F"/>
+  <rect x="50" y="50" width="1100" height="530" fill="#EF3924" rx="20"/>
+  <text x="600" y="280" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="white" text-anchor="middle">Rodellantas</text>
+  <text x="600" y="380" font-family="Arial, sans-serif" font-size="36" fill="white" text-anchor="middle">Servicios y Productos de Llantas</text>
+  <text x="600" y="480" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">Soluciones Integrales para tus Llantas</text>
+</svg>
