@@ -46,7 +46,7 @@ export const seoData: Record<string, SEOData> = {
   },
   about: {
     title: 'Nosotros | Rodellantas',
-    description: 'Conoce nuestra historia, misión y equipo profesional. Más de 20 años de experiencia.',
+    description: 'Conoce nuestra historia, misión y equipo profesional. Más de 10 años de experiencia.',
     ogImage: '/og-image.jpg',
   },
 }

@@ -2,15 +2,15 @@ import type { TeamMember } from '../types';
 
 export const teamMembers: TeamMember[] = [
   {
-    name: 'Carlos Rodríguez',
+    name: 'Rodegan Lopez',
     role: 'Fundador y Director General',
   },
   {
-    name: 'María Fernández',
+    name: 'María José Lopez',
     role: 'Gerente de Operaciones',
   },
   {
-    name: 'Juan Pérez',
+    name: 'Simon Lopez',
     role: 'Jefe de Taller',
   },
   {
